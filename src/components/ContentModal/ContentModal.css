@@ -1,13 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
 
 .ContentModal__landscape {
-  object-fit: contain;
+  -o-object-fit: contain;
+     object-fit: contain;
   border-radius: 10px;
 }
 
 .ContentModal__portrait {
   display: none;
-  object-fit: contain;
+  -o-object-fit: contain;
+     object-fit: contain;
   border-radius: 10px;
 }
 
