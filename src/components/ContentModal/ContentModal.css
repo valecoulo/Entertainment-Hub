@@ -60,7 +60,7 @@
   text-align: justify;
 }
 
-.ContentModal__description::-webkit-scrollbar {
+.ContentModal__description::-moz-transform {
   display: none;
 }
 
